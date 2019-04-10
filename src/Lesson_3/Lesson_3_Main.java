@@ -82,7 +82,7 @@ static Scanner s1 = new Scanner( System.in );
             findWord();
         }
         else {
-            System.out.println("Good Bye");
+            System.out.println("Good Bye!");
         }
     }
 
